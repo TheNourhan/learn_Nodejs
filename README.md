@@ -1,7 +1,7 @@
 # Learn Node.js & Express.js & MongoDB
 
 ## Overview
-This is a backend programming tutorial using Node.js Express.js and MongoDB from a youtube course.
+This is a backend programming tutorial using Node.js Express.js and MongoDB from a youtube course. About more than 13 hours approximately.
 ```bash
 https://youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2&si=EcxhwF8cOc50KVAM
 ```
